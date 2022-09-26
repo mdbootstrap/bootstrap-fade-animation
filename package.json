@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-fade-animation",
+  "version": "1.0.0",
+  "description": "Responsive Fade animation built with Bootstrap 5. Subtle and smooth MDB fade animations provide the user with a unique experience when interacting with UI.",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-fade-animation.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-fade-animation",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-fade-animation/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/fade-animation/"
+}
